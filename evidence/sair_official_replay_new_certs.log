@@ -1,0 +1,6 @@
+official verifier loaded: D:\mycode\math_frontier_agent_lab\problem_bank\P07-andrews-curtis\runs\20261107T124724158900Z\artifacts\reference\sair_repo\competition\tools\verifier\core.py
+move spec version: ac-r2-v1, moves: 14
+PASS C6_phi1_C6.json: 1920 official moves, peak=43, implementations_agree=True, reached_field_ok=True
+PASS P1_phi1_C6.json: 461 official moves, peak=49, implementations_agree=True, reached_field_ok=True
+
+VERDICT: PASS (official SAIR move semantics replay all ms14 certificates)

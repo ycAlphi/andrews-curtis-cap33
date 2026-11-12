@@ -1,0 +1,5 @@
+P1 cap28 conj0 nosym : RESULT start=XyyxYYY|XXXYxxy cap=28 conj=0 nosym=1 states=4000000 levels=57 complete=0 overflow=1 time=83s
+P1 cap28 conj0 sym : RESULT start=XyyxYYY|XXXYxxy cap=28 conj=0 nosym=0 states=680700 levels=254 complete=1 overflow=0 time=30s
+P1 cap28 conj8 nosym : RESULT start=XyyxYYY|XXXYxxy cap=28 conj=8 nosym=1 states=4000000 levels=56 complete=0 overflow=1 time=84s
+P2 cap28 conj0 nosym : RESULT start=XyyxYYY|XXXYxxY cap=28 conj=0 nosym=1 states=4000000 levels=51 complete=0 overflow=1 time=80s
+P2 cap28 conj0 sym : RESULT start=XyyxYYY|XXXYxxY cap=28 conj=0 nosym=0 states=1880041 levels=268 complete=1 overflow=0 time=77s

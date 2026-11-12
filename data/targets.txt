@@ -1,0 +1,7 @@
+xyxYXY|xxxxYYY
+xxxyXXY|xyyXYYY
+xxxyXXy|xyyXYYY
+x|y
+xxyXy|xyyyyyxYY
+xxxxyXy|xyyyxYY
+xxyxxYY|xyXYYXy

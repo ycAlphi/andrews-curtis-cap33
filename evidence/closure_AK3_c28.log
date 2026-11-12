@@ -1,0 +1,9 @@
+keys file: D:\mycode\math_frontier_agent_lab\problem_bank\P07-andrews-curtis\runs\20261107T124724158900Z\evidence\AK3_c28.keys (8694374 keys, 139109984 bytes)
+sorted+distinct: yes
+canonical-form violations: 0 ; length>cap: 0
+hash table built (8694374 states)
+start xyxYXY|xxxxYYY in set: yes
+target x|y in set: no
+closure: checked 238806300 moves from 8694374 states; violations: 0
+time: 226.9s
+VERDICT: PASS (closed set excludes all targets => targets unreachable from start with peak <= 28)

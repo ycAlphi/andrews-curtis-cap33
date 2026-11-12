@@ -1,0 +1,5 @@
+﻿AK3 expected=8650489 :: RESULT start=xxxYYYY|xyxYXY cap=28 conj=0 nosym=0 states=8650489 levels=152 complete=1 overflow=0 time=365s
+C3 expected=5981990 :: RESULT start=xxyXy|xyyyyyxYY cap=28 conj=0 nosym=0 states=5981990 levels=59 complete=1 overflow=0 time=280s
+C4 expected=108455 :: RESULT start=xxxxyXy|xyyyxYY cap=28 conj=0 nosym=0 states=108455 levels=17 complete=1 overflow=0 time=5s
+C6 expected=100703 :: RESULT start=xxyxxYY|xyXYYXy cap=28 conj=0 nosym=0 states=100703 levels=21 complete=1 overflow=0 time=5s
+DONE (rebuilt as clean UTF-8 on 2026-11-13; original raw log mixed PowerShell encodings)

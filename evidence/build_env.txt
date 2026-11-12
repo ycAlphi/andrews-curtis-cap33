@@ -1,0 +1,7 @@
+﻿=== build environment (round 3, 2026-11-12) ===
+w64devkit v2.11.0 (GCC 16.2.0); rebuild is bit-identical to the 2026-11-07/08 build
+acsearch.exe sha256=14390ab5a85e23778e4ccb927f3cb15b961e8a5013d11aca421f01aa175241b9
+acsearch_lean.exe sha256=62f911694f57848ed41010ace7fbb80575cadc6f7a7f051606c03fb82ec1c3c0
+ms14_engine.exe sha256=c33897034b4e3fd3619906140761cd2c1ff4b6cfb41774bdc15b8a6ad56780dd
+closure_check.exe sha256=924712d790b3a95828631c155227ca5b793ce937d492d5070b92bf974f8c5710
+python: 3.11.0

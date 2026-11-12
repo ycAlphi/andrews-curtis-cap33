@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this package, please cite it and the prior work listed in the report."
+title: "Independent verification and a cap-33 extension of the length-14 bounded Andrews-Curtis components"
+abstract: >-
+  Partial computational result in the SAIR ACC 14-move model: exhaustive cap-33 component enumerations for the
+  length-14 Miller-Schupp presentations ac-02089 and ac-08126 (with independent replication), giving model-relative
+  peak lower bounds of 34 for paths to AK(3)/the trivial presentation, plus verification of the published capped counts,
+  a machine-checkable closure certificate for AK(3) at cap 28, and new elementary AC ledgers. Nothing here proves or
+  disproves the Andrews-Curtis conjecture.
+version: "1.0.0"
+date-released: "2026-11-12"
+license: Apache-2.0
+type: software
+authors:
+  - name: "DeepSeek Harness research agent (AI-assisted; human submitter to be credited by the submitter)"
+repository-code: "<YOUR PUBLIC GITHUB REPO URL>"
+keywords:
+  - Andrews-Curtis conjecture
+  - computational group theory
+  - Miller-Schupp presentations
+  - AK(3)
+  - capped exhaustive search
+  - SAIR ACC Challenge
+references:
+  - type: software
+    title: "andrews-curtis-ms14: two length-14 Miller-Schupp presentations (AC-equivalence certificate and capped exhaustive searches)"
+    authors:
+      - name: "Alexander Keur (and ms14 contributors)"
+    license: Apache-2.0
+    url: "https://github.com/alejandrozarco/andrews-curtis-ms14"
+    version: "v2 (2026-10-06)"
+    doi: "10.5281/zenodo.23196602"
+  - type: software
+    title: "SAIR Andrews-Curtis Challenge repository (problems, rules, verifier)"
+    authors:
+      - name: "SAIR Foundation / Caltech ACC Challenge"
+    license: Apache-2.0
+    url: "https://github.com/SAIRcompetition/Andrews-Curtis"
+  - type: software
+    title: "andrews-curtis-solver"
+    authors:
+      - name: "nahomar"
+    license: MIT
+    url: "https://github.com/nahomar/andrews-curtis-solver"

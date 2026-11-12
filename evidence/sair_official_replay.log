@@ -1,0 +1,13 @@
+official verifier loaded: D:\mycode\math_frontier_agent_lab\problem_bank\P07-andrews-curtis\runs\20261107T124724158900Z\artifacts\reference\sair_repo\competition\tools\verifier\core.py
+move spec version: ac-r2-v1, moves: 14
+PASS P1_equiv_C6.json: 1066 official moves, peak=41, implementations_agree=True, reached_field_ok=True
+PASS phi0_ak3_to_ak3.json: 0 official moves, peak=13, implementations_agree=True, reached_field_ok=True
+PASS phi1_ak3_to_ak3.json: 129 official moves, peak=31, implementations_agree=True, reached_field_ok=True
+PASS phi2_ak3_to_ak3.json: 129 official moves, peak=31, implementations_agree=True, reached_field_ok=True
+PASS phi3_ak3_to_ak3.json: 0 official moves, peak=13, implementations_agree=True, reached_field_ok=True
+PASS phi4_ak3_to_ak3.json: 19 official moves, peak=21, implementations_agree=True, reached_field_ok=True
+PASS phi5_ak3_to_ak3.json: 151 official moves, peak=29, implementations_agree=True, reached_field_ok=True
+PASS phi6_ak3_to_ak3.json: 151 official moves, peak=29, implementations_agree=True, reached_field_ok=True
+PASS phi7_ak3_to_ak3.json: 19 official moves, peak=21, implementations_agree=True, reached_field_ok=True
+
+VERDICT: PASS (official SAIR move semantics replay all ms14 certificates)

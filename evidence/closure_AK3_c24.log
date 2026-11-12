@@ -1,0 +1,9 @@
+keys file: .tools\out\AK3_c24.keys (199782 keys, 3196512 bytes)
+sorted+distinct: yes
+canonical-form violations: 0 ; length>cap: 0
+hash table built (199782 states)
+start xyxYXY|xxxxYYY in set: yes
+target x|y in set: no
+closure: checked 4421502 moves from 199782 states; violations: 0
+time: 9.5s
+VERDICT: PASS (closed set excludes all targets => targets unreachable from start with peak <= 24)

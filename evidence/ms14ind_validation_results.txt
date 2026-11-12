@@ -1,0 +1,29 @@
+﻿=== P1_c24 cap=24 conj=5 (21:06:26) ===
+exit=0  RESULT start=XyyxYYY|XXXYxxy cap=24 conj=5 nosym=0 states=17718 levels=93 complete=1 overflow=0 time=0s
+states by total length: 14:1 15:2 16:8 17:29 18:56 19:170 20:300 21:909 22:1732 23:4882 24:9629
+=== P2_c24 cap=24 conj=5 (21:06:26) ===
+exit=0  RESULT start=XyyxYYY|XXXYxxY cap=24 conj=5 nosym=0 states=21932 levels=93 complete=1 overflow=0 time=1s
+states by total length: 14:1 15:2 16:9 17:39 18:68 19:221 20:378 21:1137 22:2163 23:6061 24:11853
+=== P1_c29 cap=29 conj=8 (21:06:27) ===
+exit=0  RESULT start=XyyxYYY|XXXYxxy cap=29 conj=8 nosym=0 states=2267706 levels=296 complete=1 overflow=0 time=83s
+states by total length: 14:1 15:2 16:8 17:36 18:65 19:267 20:379 21:1461 22:2276 23:8480 24:13201 25:47562 26:76333 27:
+=== P2_c29 cap=29 conj=8 (21:07:50) ===
+exit=0  RESULT start=XyyxYYY|XXXYxxY cap=29 conj=8 nosym=0 states=6331998 levels=301 complete=1 overflow=0 time=274s
+states by total length: 14:2 15:12 16:23 17:174 18:211 19:987 20:1091 21:5061 22:5657 23:27375 24:30108 25:147444 26:16
+=== P1_c30 cap=30 conj=8 (21:12:24) ===
+exit=0  RESULT start=XyyxYYY|XXXYxxy cap=30 conj=8 nosym=0 states=5349664 levels=312 complete=1 overflow=0 time=237s
+states by total length: 14:2 15:4 16:11 17:51 18:79 19:324 20:455 21:1751 22:2687 23:9818 24:15284 25:54494 26:88357 27
+=== P1_c31 cap=31 conj=8 (21:16:21) ===
+exit=0  RESULT start=XyyxYYY|XXXYxxy cap=31 conj=8 nosym=0 states=15165074 levels=360 complete=1 overflow=0 time=768s
+states by total length: 14:2 15:4 16:11 17:51 18:79 19:324 20:455 21:1756 22:2687 23:9844 24:15287 25:54733 26:88812 27
+=== P2_c30 cap=30 conj=8 (21:29:09) ===
+exit=0  RESULT start=XyyxYYY|XXXYxxY cap=30 conj=8 nosym=0 states=11889832 levels=318 complete=1 overflow=0 time=432s
+states by total length: 14:2 15:13 16:25 17:178 18:217 19:1039 20:1157 21:5292 22:5964 23:28577 24:31987 25:154336 26:1
+=== P1_c32 cap=32 conj=9 (21:36:20) ===
+exit=0  RESULT start=XyyxYYY|XXXYxxy cap=32 conj=9 nosym=0 states=32699098 levels=394 complete=1 overflow=0 time=1740s
+states by total length: 14:2 15:4 16:11 17:52 18:82 19:333 20:469 21:1804 22:2763 23:10078 24:15629 25:55786 26:90613 2
+=== P2_c31 cap=31 conj=8 (22:05:20) ===
+
+=== P1_c32 cap=32 conj=9（补记：停止前已完成） ===
+exit=0  RESULT start=XyyxYYY|XXXYxxy cap=32 conj=9 nosym=0 states=32699098 levels=394 complete=1 overflow=0 time=1740s
+states by total length: 14:2 15:4 16:11 17:52 18:82 19:333 20:469 21:1804 22:2763 23:10078 24:15629 25:55786 26:90613 27:319792 28:536546 29:1838104 30:3073053 31:10062072 32:16691905

@@ -1,0 +1,118 @@
+ms14_engine.exe : start xyxYXY|xxxxYYY cap=27 conj=6 nosym=0 threads=4 maxstates=12000000
+所在位置 行:11 字符: 3
++   & $exe --start 'xxxYYYY|xyxYXY' --cap $cap --conj $conj --threads 4 ...
++   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (start xyxYXY|xx...states=12000000:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+target 0: x|y
+level 1: +2270 new (total 2271) 0s
+level 2: +16333 new (total 18604) 0s
+level 3: +35409 new (total 54013) 1s
+level 4: +63593 new (total 117606) 2s
+level 5: +69812 new (total 187418) 5s
+level 6: +75251 new (total 262669) 7s
+level 7: +121507 new (total 384176) 10s
+level 8: +261890 new (total 646066) 14s
+level 9: +364283 new (total 1010349) 23s
+level 10: +391762 new (total 1402111) 34s
+level 11: +367089 new (total 1769200) 47s
+level 12: +374602 new (total 2143802) 60s
+level 13: +372013 new (total 2515815) 72s
+level 14: +333062 new (total 2848877) 84s
+level 15: +279755 new (total 3128632) 95s
+level 16: +215582 new (total 3344214) 104s
+level 17: +162689 new (total 3506903) 111s
+level 18: +124296 new (total 3631199) 117s
+level 19: +102193 new (total 3733392) 121s
+level 20: +76688 new (total 3810080) 124s
+level 21: +73762 new (total 3883842) 127s
+level 22: +80534 new (total 3964376) 129s
+level 23: +92910 new (total 4057286) 132s
+level 24: +72621 new (total 4129907) 135s
+level 25: +56819 new (total 4186726) 137s
+level 26: +47176 new (total 4233902) 139s
+level 27: +49937 new (total 4283839) 140s
+level 28: +42584 new (total 4326423) 142s
+level 29: +36060 new (total 4362483) 144s
+level 30: +25287 new (total 4387770) 145s
+level 31: +20022 new (total 4407792) 145s
+level 32: +16737 new (total 4424529) 146s
+level 33: +12228 new (total 4436757) 147s
+level 34: +10264 new (total 4447021) 147s
+level 35: +10302 new (total 4457323) 147s
+level 36: +16654 new (total 4473977) 148s
+level 37: +25421 new (total 4499398) 148s
+level 38: +24781 new (total 4524179) 149s
+level 39: +23015 new (total 4547194) 150s
+level 40: +14923 new (total 4562117) 151s
+level 41: +14015 new (total 4576132) 151s
+level 42: +10287 new (total 4586419) 152s
+level 43: +12232 new (total 4598651) 152s
+level 44: +7490 new (total 4606141) 153s
+level 45: +8979 new (total 4615120) 153s
+level 46: +5551 new (total 4620671) 153s
+level 47: +6267 new (total 4626938) 154s
+level 48: +4216 new (total 4631154) 154s
+level 49: +5135 new (total 4636289) 154s
+level 50: +3721 new (total 4640010) 154s
+level 51: +4116 new (total 4644126) 154s
+level 52: +2815 new (total 4646941) 154s
+level 53: +3076 new (total 4650017) 154s
+level 54: +2178 new (total 4652195) 154s
+level 55: +2345 new (total 4654540) 155s
+level 56: +1653 new (total 4656193) 155s
+level 57: +1539 new (total 4657732) 155s
+level 58: +1580 new (total 4659312) 155s
+level 59: +2358 new (total 4661670) 155s
+level 60: +1374 new (total 4663044) 155s
+level 61: +1029 new (total 4664073) 155s
+level 62: +611 new (total 4664684) 155s
+level 63: +523 new (total 4665207) 155s
+level 64: +416 new (total 4665623) 155s
+level 65: +365 new (total 4665988) 155s
+level 66: +298 new (total 4666286) 155s
+level 67: +265 new (total 4666551) 155s
+level 68: +227 new (total 4666778) 155s
+level 69: +228 new (total 4667006) 155s
+level 70: +194 new (total 4667200) 155s
+level 71: +215 new (total 4667415) 155s
+level 72: +179 new (total 4667594) 155s
+level 73: +151 new (total 4667745) 155s
+level 74: +127 new (total 4667872) 155s
+level 75: +130 new (total 4668002) 155s
+level 76: +98 new (total 4668100) 155s
+level 77: +115 new (total 4668215) 155s
+level 78: +80 new (total 4668295) 155s
+level 79: +87 new (total 4668382) 155s
+level 80: +74 new (total 4668456) 155s
+level 81: +80 new (total 4668536) 155s
+level 82: +78 new (total 4668614) 155s
+level 83: +81 new (total 4668695) 155s
+level 84: +66 new (total 4668761) 155s
+level 85: +64 new (total 4668825) 155s
+level 86: +51 new (total 4668876) 155s
+level 87: +58 new (total 4668934) 155s
+level 88: +39 new (total 4668973) 155s
+level 89: +47 new (total 4669020) 155s
+level 90: +30 new (total 4669050) 155s
+level 91: +40 new (total 4669090) 155s
+level 92: +26 new (total 4669116) 155s
+level 93: +36 new (total 4669152) 155s
+level 94: +26 new (total 4669178) 155s
+level 95: +27 new (total 4669205) 155s
+level 96: +21 new (total 4669226) 155s
+level 97: +18 new (total 4669244) 155s
+level 98: +20 new (total 4669264) 155s
+level 99: +12 new (total 4669276) 155s
+level 100: +16 new (total 4669292) 155s
+level 101: +1 new (total 4669293) 155s
+level 102: +6 new (total 4669299) 155s
+level 103: +1 new (total 4669300) 155s
+level 104: +6 new (total 4669306) 155s
+level 105: +2 new (total 4669308) 155s
+level 106: +4 new (total 4669312) 155s
+level 107: +0 new (total 4669312) 155s
+RESULT start=xxxYYYY|xyxYXY cap=27 conj=6 nosym=0 states=4669312 levels=107 complete=1 overflow=0 time=155s
+states by total length: 13:2 14:5 15:72 16:81 17:445 18:500 19:2614 20:2779 21:15057 22:15870 23:87948 24:96032 25:5325
+57 26:601886 27:3313464

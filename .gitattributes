@@ -1,0 +1,2 @@
+# Keep all files byte-exact: no end-of-line conversion on checkout or add.
+* -text

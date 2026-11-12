@@ -1,0 +1,102 @@
+ms14_engine.exe : start xxxyXXY|xyyXYYY cap=24 conj=5 nosym=0 threads=4 maxstates=2000000
+所在位置 行:20 字符: 3
++   & $exe --start $start --cap $cap --conj $conj --threads 4 --maxstat ...
++   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (start xxxyXXY|x...xstates=2000000:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+level 1: +138 new (total 139) 0s
+level 2: +649 new (total 788) 0s
+level 3: +349 new (total 1137) 0s
+level 4: +595 new (total 1732) 0s
+level 5: +204 new (total 1936) 0s
+level 6: +406 new (total 2342) 0s
+level 7: +194 new (total 2536) 0s
+level 8: +393 new (total 2929) 0s
+level 9: +190 new (total 3119) 0s
+level 10: +407 new (total 3526) 0s
+level 11: +222 new (total 3748) 0s
+level 12: +675 new (total 4423) 0s
+level 13: +484 new (total 4907) 0s
+level 14: +735 new (total 5642) 0s
+level 15: +350 new (total 5992) 0s
+level 16: +669 new (total 6661) 0s
+level 17: +491 new (total 7152) 0s
+level 18: +807 new (total 7959) 0s
+level 19: +627 new (total 8586) 0s
+level 20: +500 new (total 9086) 0s
+level 21: +300 new (total 9386) 0s
+level 22: +402 new (total 9788) 0s
+level 23: +227 new (total 10015) 0s
+level 24: +569 new (total 10584) 0s
+level 25: +240 new (total 10824) 0s
+level 26: +387 new (total 11211) 0s
+level 27: +149 new (total 11360) 0s
+level 28: +297 new (total 11657) 0s
+level 29: +123 new (total 11780) 0s
+level 30: +273 new (total 12053) 0s
+level 31: +126 new (total 12179) 0s
+level 32: +322 new (total 12501) 0s
+level 33: +140 new (total 12641) 0s
+level 34: +387 new (total 13028) 0s
+level 35: +211 new (total 13239) 0s
+level 36: +488 new (total 13727) 0s
+level 37: +200 new (total 13927) 0s
+level 38: +293 new (total 14220) 0s
+level 39: +119 new (total 14339) 0s
+level 40: +207 new (total 14546) 0s
+level 41: +88 new (total 14634) 0s
+level 42: +189 new (total 14823) 0s
+level 43: +79 new (total 14902) 0s
+level 44: +175 new (total 15077) 0s
+level 45: +84 new (total 15161) 0s
+level 46: +206 new (total 15367) 0s
+level 47: +93 new (total 15460) 0s
+level 48: +236 new (total 15696) 0s
+level 49: +96 new (total 15792) 0s
+level 50: +196 new (total 15988) 0s
+level 51: +73 new (total 16061) 0s
+level 52: +130 new (total 16191) 0s
+level 53: +51 new (total 16242) 0s
+level 54: +104 new (total 16346) 0s
+level 55: +41 new (total 16387) 0s
+level 56: +103 new (total 16490) 0s
+level 57: +43 new (total 16533) 0s
+level 58: +105 new (total 16638) 0s
+level 59: +54 new (total 16692) 0s
+level 60: +143 new (total 16835) 0s
+level 61: +32 new (total 16867) 0s
+level 62: +94 new (total 16961) 0s
+level 63: +21 new (total 16982) 0s
+level 64: +69 new (total 17051) 0s
+level 65: +17 new (total 17068) 0s
+level 66: +58 new (total 17126) 0s
+level 67: +28 new (total 17154) 0s
+level 68: +77 new (total 17231) 0s
+level 69: +32 new (total 17263) 0s
+level 70: +86 new (total 17349) 0s
+level 71: +45 new (total 17394) 0s
+level 72: +96 new (total 17490) 0s
+level 73: +18 new (total 17508) 0s
+level 74: +55 new (total 17563) 0s
+level 75: +4 new (total 17567) 0s
+level 76: +17 new (total 17584) 0s
+level 77: +3 new (total 17587) 0s
+level 78: +13 new (total 17600) 0s
+level 79: +1 new (total 17601) 0s
+level 80: +8 new (total 17609) 0s
+level 81: +8 new (total 17617) 0s
+level 82: +25 new (total 17642) 0s
+level 83: +11 new (total 17653) 0s
+level 84: +27 new (total 17680) 0s
+level 85: +6 new (total 17686) 0s
+level 86: +9 new (total 17695) 0s
+level 87: +3 new (total 17698) 0s
+level 88: +6 new (total 17704) 0s
+level 89: +2 new (total 17706) 0s
+level 90: +9 new (total 17715) 0s
+level 91: +1 new (total 17716) 0s
+level 92: +2 new (total 17718) 0s
+level 93: +0 new (total 17718) 0s
+RESULT start=XyyxYYY|XXXYxxy cap=24 conj=5 nosym=0 states=17718 levels=93 complete=1 overflow=0 time=0s
+states by total length: 14:1 15:2 16:8 17:29 18:56 19:170 20:300 21:909 22:1732 23:4882 24:9629

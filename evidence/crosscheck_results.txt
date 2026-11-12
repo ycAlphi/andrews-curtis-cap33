@@ -1,0 +1,9 @@
+﻿=== Q P1_c24 cap=24 exit=0 wall=271s ===
+Q start=XyyxYYY|XXXYxxy cap=24: own classes 17718, acsearch classes 17718, own-not-acsearch 0, acsearch-not-own 0
+=== Q P2_c24 cap=24 exit=0 wall=379s ===
+Q start=XyyxYYY|XXXYxxY cap=24: own classes 21932, acsearch classes 21932, own-not-acsearch 0, acsearch-not-own 0
+=== E P1_c20 cap=20 exit=0 wall=269s ===
+E start=XyyxYYY|XXXYxxy cap=20: exact states 1219064, empty-relator states 0, projected classes 473, acsearch classes 473, projected-not-in-acsearch 0
+=== E P2_c20 cap=20 exit=0 wall=145s ===
+E start=XyyxYYY|XXXYxxY cap=20: exact states 696024, empty-relator states 0, projected classes 521, acsearch classes 521, projected-not-in-acsearch 0
+CROSSCHECK DONE 17:18:11

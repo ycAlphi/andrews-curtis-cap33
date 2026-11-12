@@ -1,0 +1,6 @@
+﻿=== AK3_c27 ===
+RESULT start=xxxYYYY|xyxYXY cap=27 conj=6 nosym=0 states=4669312 levels=107 complete=1 overflow=0 time=155s
+states by total length: 13:2 14:5 15:72 16:81 17:445 18:500 19:2614 20:2779 21:15057 22:15870 23:87948 24:96032 25:5325
+=== AK3_c28 ===
+RESULT start=xxxYYYY|xyxYXY cap=28 conj=7 nosym=0 states=8694374 levels=152 complete=1 overflow=0 time=386s
+states by total length: 13:2 14:5 15:72 16:82 17:453 18:507 19:2645 20:2827 21:15264 22:16097 23:89003 24:97222 25:5379
